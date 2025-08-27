@@ -1,2 +1,2 @@
-#Github Training
+# Github Training
 Following the video
